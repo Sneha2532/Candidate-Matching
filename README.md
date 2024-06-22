@@ -15,3 +15,14 @@ The candidate matching project uses machine Learning to pair candidate with jobs
 2. Then, run the main script:
 
     main.ipynb
+# Dependencies:
+
+- pandas: Used to load and manipulate job and candidate data from CSV files.
+- re: Used for preprocessing text data by removing unwanted characters and cleaning text.
+- nltk: Utilized for natural language processing tasks like removing stopwords.
+- WordNetLemmatizer: Used to reduce words to their base forms, improving text normalization.
+- TfidfVectorizer: Converts text data into numerical features for similarity calculations.
+
+
+
+
