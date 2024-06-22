@@ -7,3 +7,11 @@ The candidate matching project uses machine Learning to pair candidate with jobs
 - lemmatization 
 -	Count Vectorization
 -	TF-IDF
+# Usage
+1. First, ensure you have all dependencies installed by running:
+
+    pip install -r requirements.txt
+
+2. Then, run the main script:
+
+    main.ipynb
